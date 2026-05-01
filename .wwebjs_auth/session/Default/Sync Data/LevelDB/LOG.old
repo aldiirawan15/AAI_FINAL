@@ -1,0 +1,4 @@
+2026/05/01-13:19:54.567 12a4 Creating DB C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Sync Data\LevelDB since it was missing.
+2026/05/01-13:19:54.579 12a4 Reusing MANIFEST C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/01-13:19:54.580 12a4 Recovering log #3
+2026/05/01-13:19:54.580 12a4 Reusing old log C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Sync Data\LevelDB/000003.log 

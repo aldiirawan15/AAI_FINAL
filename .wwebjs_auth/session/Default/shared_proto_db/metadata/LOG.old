@@ -1,0 +1,4 @@
+2026/05/01-13:19:54.588 1da8 Creating DB C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\shared_proto_db\metadata since it was missing.
+2026/05/01-13:19:54.592 1da8 Reusing MANIFEST C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/01-13:19:54.593 1da8 Recovering log #3
+2026/05/01-13:19:54.593 1da8 Reusing old log C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\shared_proto_db\metadata/000003.log 

@@ -1,0 +1,4 @@
+2026/05/01-13:19:54.691 4a88 Creating DB C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Session Storage since it was missing.
+2026/05/01-13:19:54.724 4a88 Reusing MANIFEST C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
+2026/05/01-13:19:54.730 4a88 Recovering log #3
+2026/05/01-13:19:54.734 4a88 Reusing old log C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Session Storage/000003.log 

@@ -1,0 +1,4 @@
+2026/05/01-13:19:54.578 1c24 Creating DB C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Site Characteristics Database since it was missing.
+2026/05/01-13:19:54.584 1c24 Reusing MANIFEST C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Site Characteristics Database/MANIFEST-000001
+2026/05/01-13:19:54.584 1c24 Recovering log #3
+2026/05/01-13:19:54.585 1c24 Reusing old log C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Site Characteristics Database/000003.log 

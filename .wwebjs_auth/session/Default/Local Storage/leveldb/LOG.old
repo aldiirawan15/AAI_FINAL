@@ -1,0 +1,6 @@
+2026/05/01-13:19:54.692 11a8 Creating DB C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2026/05/01-13:19:54.718 11a8 Reusing MANIFEST C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/01-13:19:54.722 11a8 Recovering log #68
+2026/05/01-13:19:54.727 11a8 Reusing old log C:\Users\Pelari Kalcer\Documents\AAI\.wwebjs_auth\session\Default\Local Storage\leveldb/000068.log 
+2026/05/01-13:19:54.729 11a8 Delete type=2 #5
+2026/05/01-13:19:54.729 11a8 Delete type=2 #69
