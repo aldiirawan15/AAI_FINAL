@@ -51,10 +51,15 @@ const client = new Client({
     }
 });
 
-client.on('qr', qr => {
-    qrcode.generate(qr, { small: true });  // ← ini yang bener
-    client.on('ready', () => console.log('🤖 Bot hidup'));
+const QRCode = require('qrcode');
+
+client.on('qr', async (qr) => {
+    console.log('=== SCAN QR INI ===');
+    const qrString = await QRCode.toString(qr, { type: 'terminal', small: true });
+    console.log(qrString);
 });
+
+client.on('ready', () => console.log('🤖 Bot hidup'));
 
 // ======================
 // HELPER: VALIDASI OWNER
